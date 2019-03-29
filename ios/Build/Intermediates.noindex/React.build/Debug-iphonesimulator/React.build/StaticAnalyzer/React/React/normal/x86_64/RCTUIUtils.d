@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/Nikesh/Desktop/stt/node_modules/react-native/React/UIUtils/RCTUIUtils.m \
-  /Users/Nikesh/Desktop/stt/node_modules/react-native/React/UIUtils/RCTUIUtils.h
+  /Users/Nikesh/stt/node_modules/react-native/React/UIUtils/RCTUIUtils.m \
+  /Users/Nikesh/stt/node_modules/react-native/React/UIUtils/RCTUIUtils.h

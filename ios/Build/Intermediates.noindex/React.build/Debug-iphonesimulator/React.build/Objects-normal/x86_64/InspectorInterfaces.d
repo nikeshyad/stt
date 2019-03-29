@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/Nikesh/Desktop/stt/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.cpp \
-  /Users/Nikesh/Desktop/stt/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.h
+  /Users/Nikesh/stt/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.cpp \
+  /Users/Nikesh/stt/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.h

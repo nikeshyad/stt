@@ -1,22 +1,22 @@
 dependencies: \
-  /Users/Nikesh/Desktop/stt/node_modules/react-native/React/Views/ScrollView/RCTScrollContentView.m \
-  /Users/Nikesh/Desktop/stt/node_modules/react-native/React/Views/ScrollView/RCTScrollContentView.h \
-  /Users/Nikesh/Desktop/stt/node_modules/react-native/React/Views/RCTView.h \
-  /Users/Nikesh/Desktop/stt/node_modules/react-native/React/Views/RCTBorderStyle.h \
-  /Users/Nikesh/Desktop/stt/node_modules/react-native/React/Views/RCTComponent.h \
-  /Users/Nikesh/Desktop/stt/node_modules/react-native/React/Views/RCTPointerEvents.h \
-  /Users/Nikesh/Desktop/stt/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/Nikesh/Desktop/stt/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/Nikesh/Desktop/stt/node_modules/react-native/React/Views/UIView+React.h \
-  /Users/Nikesh/Desktop/stt/ios/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/Nikesh/Desktop/stt/ios/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Users/Nikesh/Desktop/stt/node_modules/react-native/React/Views/ScrollView/RCTScrollView.h \
-  /Users/Nikesh/Desktop/stt/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
-  /Users/Nikesh/Desktop/stt/node_modules/react-native/React/Base/RCTEventDispatcher.h \
-  /Users/Nikesh/Desktop/stt/node_modules/react-native/React/Base/RCTBridge.h \
-  /Users/Nikesh/Desktop/stt/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
-  /Users/Nikesh/Desktop/stt/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
-  /Users/Nikesh/Desktop/stt/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/Nikesh/Desktop/stt/node_modules/react-native/React/Base/RCTFrameUpdate.h \
-  /Users/Nikesh/Desktop/stt/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/Nikesh/Desktop/stt/node_modules/react-native/React/Views/ScrollView/RCTScrollableProtocol.h
+  /Users/Nikesh/stt/node_modules/react-native/React/Views/ScrollView/RCTScrollContentView.m \
+  /Users/Nikesh/stt/node_modules/react-native/React/Views/ScrollView/RCTScrollContentView.h \
+  /Users/Nikesh/stt/node_modules/react-native/React/Views/RCTView.h \
+  /Users/Nikesh/stt/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/Nikesh/stt/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/Nikesh/stt/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/Nikesh/stt/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/Nikesh/stt/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/Nikesh/stt/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/Nikesh/stt/ios/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/Nikesh/stt/ios/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/Nikesh/stt/node_modules/react-native/React/Views/ScrollView/RCTScrollView.h \
+  /Users/Nikesh/stt/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
+  /Users/Nikesh/stt/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/Nikesh/stt/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/Nikesh/stt/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/Nikesh/stt/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/Nikesh/stt/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/Nikesh/stt/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/Nikesh/stt/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/Nikesh/stt/node_modules/react-native/React/Views/ScrollView/RCTScrollableProtocol.h

@@ -13,8 +13,11 @@
     "react-native-circular-progress": "^1.0.1",
     "react-native-countdown-circle": "^3.0.0",
     "react-native-fs": "^2.12.1",
+    "react-native-material-dropdown": "^0.11.1",
+    "react-native-restart": "0.0.7",
     "react-native-sound": "^0.10.9",
-    "react-native-svg": "^8.0.8"
+    "react-native-svg": "^8.0.8",
+    "react-native-tts": "^2.0.0"
   },
   "devDependencies": {
     "babel-jest": "23.6.0",

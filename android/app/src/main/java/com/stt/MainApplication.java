@@ -3,6 +3,8 @@ package com.stt;
 import android.app.Application;
 
 import com.facebook.react.ReactApplication;
+import com.avishayil.rnrestart.ReactNativeRestartPackage;
+import net.no_mad.tts.TextToSpeechPackage;
 import com.rnfs.RNFSPackage;
 import com.zmxv.RNSound.RNSoundPackage;
 import com.rnim.rn.audio.ReactNativeAudioPackage;
@@ -27,6 +29,8 @@ public class MainApplication extends Application implements ReactApplication {
     protected List<ReactPackage> getPackages() {
       return Arrays.<ReactPackage>asList(
           new MainReactPackage(),
+            new ReactNativeRestartPackage(),
+            new TextToSpeechPackage(),
             new RNFSPackage(),
             new RNSoundPackage(),
             new ReactNativeAudioPackage(),

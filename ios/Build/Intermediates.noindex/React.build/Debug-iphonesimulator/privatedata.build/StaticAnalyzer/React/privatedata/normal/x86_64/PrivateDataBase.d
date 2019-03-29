@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/Nikesh/Desktop/stt/node_modules/react-native/ReactCommon/privatedata/PrivateDataBase.cpp \
-  /Users/Nikesh/Desktop/stt/node_modules/react-native/ReactCommon/privatedata/PrivateDataBase.h
+  /Users/Nikesh/stt/node_modules/react-native/ReactCommon/privatedata/PrivateDataBase.cpp \
+  /Users/Nikesh/stt/node_modules/react-native/ReactCommon/privatedata/PrivateDataBase.h
